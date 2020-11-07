@@ -10,6 +10,10 @@ No arquivo creates.sql estão os comandos para criar as tabelas e também uma fu
 
 Lembrando que os CEPs tem uma frequencia de atualização que não deve ser desprezada, e eventualmente poderá ser interessante atualizar essas informações de uma boa fonte, neste caso, no site https://cepaberto.com, agradeço ao trabalho deles. 
 
+Insira os dados na sxeguinte ordem:
+
+PAISES, ESTADOS, CIDADES, CEPS.
+
 07 de novembro de 2020
 
 Fernando A de Araujo Filho
